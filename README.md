@@ -6,9 +6,9 @@ Modern Alchemy Mastery in order to be able to create better machines that are ne
 to be of great help when eventually facing bosses in a custom Dungeon Dimension with Bosses and Mobs that play in a completely
 different League than Vanilla Minecraft Mobs ;3
 The Mod will introduce a custom Profession for the Player, together with a Profession Leveling System, as well as new Blocks, Trees,
-Machines, Weapons and more. Ir also will introdce a Enchantment System different from the Vanilla one, allowing for more Freedom and
-less RNG when looking for enchants. Depending on the Proffesion Mastery the Player will also be able to imbue Armor and Items with
-Attributes, using a specific Tool (mid- to endgame), as well as Mana and Resources. For that there will be a Multiblock Structure, the
+Machines, Weapons and more. It also will introduce an Enchantment System different from the Vanilla one, allowing for more Freedom and
+less RNG when looking for enchants. Depending on the Proffesion Mastery, the Player will also be able to imbue Armor and Items with
+Attributes using a specific Tool (mid- to endgame), as well as Mana and Resources. For that there will be a Multiblock Structure, the
 Forge.
 
 Currently Included Additions:
