@@ -9,7 +9,7 @@ The Mod will introduce a custom Profession for the Player, together with a Profe
 Machines, Weapons and more. It also will introduce an Enchantment System different from the Vanilla one, allowing for more Freedom and
 less RNG when looking for enchants. Depending on the Proffesion Mastery, the Player will also be able to imbue Armor and Items with
 Attributes using a specific Tool (mid- to endgame), as well as Mana and Resources. For that there will be a Multiblock Structure, the
-Forge.
+Alchemical Forge.
 
 Currently Included Additions:
 =============================
@@ -30,7 +30,11 @@ Additions that are to be implemented:
 
 - Weapons & Tools:
   - 
-  
+
+- Machines & Multiblock Structures:
+  - Alchemical Forge
+  -  
+ 
 - Armor:
   - 
   
@@ -38,6 +42,12 @@ Additions that are to be implemented:
   - Alchemist
   - Alchemical Smith
   - Trader
+ 
+- Hostile Mobs:
+  - 
+
+- Bosses:
+  - 
     
 - System:
   - Addition of Mana in 3 Forms (Player Mana, Liquid Mana, Crystalized Mana)
