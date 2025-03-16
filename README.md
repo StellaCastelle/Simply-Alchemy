@@ -46,4 +46,4 @@ Additions that are to be implemented:
   Notes:
   ======
 
-  This Mod is currentl in the early stages and is a WIP (Work in Progress). There are as of right now no stable versions of this mod.
+  This Mod is currently in the early stages and is a WIP (Work in Progress). There are as of right now no stable versions of this mod.
