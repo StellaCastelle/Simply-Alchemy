@@ -11,6 +11,17 @@ less RNG when looking for enchants. Depending on the Proffesion Mastery, the Pla
 Attributes using a specific Tool (mid- to endgame), as well as Mana and Resources. For that there will be a Multiblock Structure, the
 Alchemical Forge.
 
+Lore:
+=====
+
+The Alchemists are a Group of People, that used to belong to a very advanced Civilisation. Due to differences in their ideology they
+were disliked by other nations and were eventually, after a 100 year long war, defeated, their records burned and long forgotten. You,
+the Player, stumbled, hundreds of years after the Grand War, upon a book called 'The Basics of Alchemy' by an author, whose name was
+inrecognisable. You got the book from a trader, that wanted to throw the book away. The book is a part of the lost Alchemy Records, also
+knows as 'Laplace Fragments', a not quite infinite collection of knowledge, usefull and possibly dangerous, created by the renowed
+5 Alchemy Grandmasters. The choice is yours - will you read this book and dip your toes in the grand sea of opportunities, or will
+you avoid it and choose a different path?...
+
 Currently Included Additions:
 =============================
 
