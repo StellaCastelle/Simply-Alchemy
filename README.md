@@ -40,7 +40,7 @@ Additions that are to be implemented:
   - 
 
 - Weapons & Tools:
-  - 
+  -  
 
 - Machines & Multiblock Structures:
   - Alchemical Forge
