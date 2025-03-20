@@ -31,45 +31,36 @@ Additions that are to be implemented:
 =====================================
 
 - Dimensions:
-=============
   - Floating Islands called 'Elysia' (Peaceful, meant as a Safe Space for the Alchemist's Workshop)
   - Dungeon Dimension called 'Shadow Arcana' (Hostile, full of hostile Mobs and Bosses, similar to the Elysia in Terrain Generation)
   - Mining Dimension (Neutral, meant for Material Gathreing only, featuring Vanialla and Mod ores in the terrain generation, similar
     to Vanilla in Terrain Generation)
 
 - Blocks & Ores:
-================
   - 
 
 - Weapons & Tools:
-==================
   -  
 
 - Machines & Multiblock Structures:
-===================================
   - Alchemical Forge
   -  
  
 - Armor:
-========
   - 
   
 - Villagers:
-============
   - Alchemist
   - Alchemical Smith
   - Curiosities Trader
  
 - Hostile Mobs:
-===============
   - 
 
 - Bosses:
-=========
   - 
     
 - System:
-=========
   - Addition of Mana in 3 Forms (Player Mana, Liquid Mana, Crystalized Mana)
   - Leveling and Stat System for Players with the Modern Alchemist Profession
 
