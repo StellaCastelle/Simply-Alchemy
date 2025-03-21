@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "simplyalchemy:item/example_item/example_item"
+  }
+}
